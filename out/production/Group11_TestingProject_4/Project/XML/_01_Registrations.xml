@@ -3,6 +3,7 @@
     <test name="test1">
 
         <parameter name="browserTipi" value="chrome"></parameter>
+        <parameter name="aranacakKelime" value="Adobe Photoshop CS4"></parameter>
 
         <classes>
             <class name="Project._01_"></class>
